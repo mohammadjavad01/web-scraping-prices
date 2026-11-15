@@ -6,10 +6,5 @@ __pycache__/
 # Database
 data.db
 
-# Other codes
-previous_code.py
-ai_code.py
-test.py
-
-# Other things
-things_i_learned_from_the_project.txt
+# Test files and notes
+test-files-and-notes
